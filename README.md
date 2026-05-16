@@ -1,6 +1,6 @@
 # Dream Cafe
 
-## System Overview
+## Overview
 
 The Dream Cafe application is a static, multi-page web ecosystem engineered exclusively with Vanilla HTML5, CSS3, and ES6 JavaScript. The primary architectural objective is to deliver a dynamic, data-driven user interface without the computational overhead, dependency bloat, and build-step requirements characteristic of modern JavaScript frameworks.
 
