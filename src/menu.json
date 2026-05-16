@@ -4,7 +4,7 @@
     "category": "Coffee",
     "price": "$4.50",
     "description": "Rich espresso with caramel syrup and steamed milk.",
-    "image": "imgs/caramel-latte.jpg",
+    "image": "../imgs/caramel-latte.jpg",
     "highlight": false
   },
   {
@@ -12,7 +12,7 @@
     "category": "Coffee",
     "price": "$3.00",
     "description": "Straight, bold, and intense.",
-    "image": "imgs/espresso.jpg",
+    "image": "../imgs/espresso.jpg",
     "highlight": false
   },
   {
@@ -20,7 +20,7 @@
     "category": "Bakery",
     "price": "$3.20",
     "description": "Flaky croissant filled with gooey chocolate.",
-    "image": "imgs/choco-croissant.jpg",
+    "image": "../imgs/choco-croissant.jpg",
     "highlight": true
   },
   {
@@ -28,7 +28,7 @@
     "category": "Bakery",
     "price": "$2.80",
     "description": "Soft muffin bursting with blueberries.",
-    "image": "imgs/blueberry-muffin.jpg",
+    "image": "../imgs/blueberry-muffin.jpg",
     "highlight": false
   },
   {
@@ -36,7 +36,7 @@
     "category": "Coffee",
     "price": "$4.70",
     "description": "Creamy steamed milk blended with vibrant matcha green tea.",
-    "image": "imgs/matcha-latte.jpg",
+    "image": "../imgs/matcha-latte.jpg",
     "highlight": false
   },
   {
@@ -44,7 +44,7 @@
     "category": "Coffee",
     "price": "$4.00",
     "description": "A perfect balance of espresso, steamed milk, and foam.",
-    "image": "imgs/cappuccino.jpg",
+    "image": "../imgs/cappuccino.jpg",
     "highlight": false
   },
   {
@@ -52,7 +52,7 @@
     "category": "Breakfast",
     "price": "$5.50",
     "description": "Toasted sourdough topped with smashed avocado and chili flakes.",
-    "image": "imgs/avocado-toast.jpg",
+    "image": "../imgs/avocado-toast.jpg",
     "highlight": false
   },
   {
@@ -60,7 +60,7 @@
     "category": "Coffee",
     "price": "$3.80",
     "description": "Espresso poured over chilled water and ice.",
-    "image": "imgs/iced-americano.jpg",
+    "image": "../imgs/iced-americano.jpg",
     "highlight": false
   },
   {
@@ -68,7 +68,7 @@
     "category": "Bakery",
     "price": "$3.50",
     "description": "Layered pastry filled with almond cream and topped with flakes.",
-    "image": "imgs/almond-croissant.jpg",
+    "image": "../imgs/almond-croissant.jpg",
     "highlight": false
   },
   {
@@ -76,7 +76,7 @@
     "category": "Coffee",
     "price": "$4.60",
     "description": "Espresso, chocolate, and steamed milk topped with whipped cream.",
-    "image": "imgs/mocha.jpg",
+    "image": "../imgs/mocha.jpg",
     "highlight": false
   },
   {
@@ -84,7 +84,7 @@
     "category": "Breakfast",
     "price": "$4.20",
     "description": "Fluffy eggs and cheddar on a toasted English muffin.",
-    "image": "imgs/egg-sandwich.jpg",
+    "image": "../imgs/egg-sandwich.jpg",
     "highlight": false
   },
   {
@@ -92,7 +92,7 @@
     "category": "Bakery",
     "price": "$3.00",
     "description": "Golden pastry filled with strawberries and cream cheese.",
-    "image": "imgs/strawberry-danish.jpg",
+    "image": "../imgs/strawberry-danish.jpg",
     "highlight": false
   },
   {
@@ -100,7 +100,7 @@
     "category": "Coffee",
     "price": "$3.90",
     "description": "Creamy and rich with melted chocolate and steamed milk.",
-    "image": "imgs/hot-chocolate.jpg",
+    "image": "../imgs/hot-chocolate.jpg",
     "highlight": false
   },
   {
@@ -108,7 +108,7 @@
     "category": "Coffee",
     "price": "$4.80",
     "description": "Espresso with pumpkin, spices, and steamed milk. A fall favorite.",
-    "image": "imgs/pumpkin-spice.jpg",
+    "image": "../imgs/pumpkin-spice.jpg",
     "highlight": true
   },
   {
@@ -116,7 +116,7 @@
     "category": "Breakfast",
     "price": "$3.70",
     "description": "Layers of Greek yogurt, granola, and honeyed berries.",
-    "image": "imgs/parfait.jpg",
+    "image": "../imgs/parfait.jpg",
     "highlight": false
   },
   {
@@ -124,7 +124,7 @@
     "category": "Bakery",
     "price": "$3.30",
     "description": "Warm, sticky bun swirled with cinnamon and icing.",
-    "image": "imgs/cinnamon-roll.jpg",
+    "image": "../imgs/cinnamon-roll.jpg",
     "highlight": true
   },
   {
@@ -132,7 +132,7 @@
     "category": "Coffee",
     "price": "$4.40",
     "description": "Spiced tea concentrate mixed with steamed milk.",
-    "image": "imgs/chai-latte.jpg",
+    "image": "../imgs/chai-latte.jpg",
     "highlight": false
   },
   {
@@ -140,7 +140,7 @@
     "category": "Coffee",
     "price": "$4.00",
     "description": "Slow-steeped and super smooth — best served chilled.",
-    "image": "imgs/cold-brew.jpg",
+    "image": "../imgs/cold-brew.jpg",
     "highlight": false
   },
   {
@@ -148,7 +148,7 @@
     "category": "Bakery",
     "price": "$3.10",
     "description": "Soft loaf bursting with lemon zest and crunchy poppy seeds.",
-    "image": "imgs/lemon-loaf.jpg",
+    "image": "../imgs/lemon-loaf.jpg",
     "highlight": false
   },
   {
@@ -156,7 +156,7 @@
     "category": "Refreshers",
     "price": "$3.60",
     "description": "Bright, floral herbal tea with a tart finish.",
-    "image": "imgs/hibiscus-tea.jpg",
+    "image": "../imgs/hibiscus-tea.jpg",
     "highlight": false
   }
 ]

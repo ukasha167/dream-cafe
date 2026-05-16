@@ -5,38 +5,38 @@
 }
 
 .header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 0 20px;
-    height: 80px;
-    width: 100%;
-    box-sizing: border-box;
-    border-bottom: 1px solid rgba(173, 134, 98, 0.3);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  height: 80px;
+  width: 100%;
+  box-sizing: border-box;
+  border-bottom: 1px solid rgba(173, 134, 98, 0.3);
 }
 
 .logo {
-    font-size: 1.5rem;
-    color: rgb(173, 134, 98);
-    font-weight: 900;
-    text-decoration: none;
-    font-family:  serif;
-    cursor: pointer;
+  font-size: 1.5rem;
+  color: rgb(173, 134, 98);
+  font-weight: 900;
+  text-decoration: none;
+  font-family: serif;
+  cursor: pointer;
 }
 
 .nav {
-    display: flex;
-    gap: 30px;
+  display: flex;
+  gap: 30px;
 }
 
 .headBtn {
-    color: rgb(173, 134, 98);
-    text-decoration: none;
-    font-family: serif;
-    font-size: 1rem;
-    background: none;
-    border: none;
-    cursor: pointer;
+  color: rgb(173, 134, 98);
+  text-decoration: none;
+  font-family: serif;
+  font-size: 1rem;
+  background: none;
+  border: none;
+  cursor: pointer;
 }
 
 body {
@@ -118,12 +118,12 @@ body {
 }
 
 .footer {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 30px;
-    padding: 40px 20px;
-    margin-top: 100px;
-    border-top: 1px solid rgba(173, 134, 98, 0.3);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 30px;
+  padding: 40px 20px;
+  margin-top: 100px;
+  border-top: 1px solid rgba(173, 134, 98, 0.3);
 }

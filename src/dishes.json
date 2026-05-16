@@ -1,53 +1,52 @@
-
-  [
+[
   {
     "name": "Caramel Latte",
-    "image": "imgs/caramel-latte.jpg",
+    "image": "../imgs/caramel-latte.jpg",
     "description": "Smooth espresso with rich caramel and creamy steamed milk."
   },
   {
     "name": "Avocado Toast",
-    "image": "imgs/avocado-toast.jpg",
+    "image": "../imgs/avocado-toast.jpg",
     "description": "Toasted sourdough with smashed avocado and feta."
   },
   {
     "name": "Classic Cappuccino",
-    "image": "imgs/cappuccino.jpg",
+    "image": "../imgs/cappuccino.jpg",
     "description": "Bold espresso topped with a perfect balance of steamed milk and foam."
   },
   {
     "name": "Blueberry Muffin",
-    "image": "imgs/blueberry-muffin.jpg",
+    "image": "../imgs/blueberry-muffin.jpg",
     "description": "Fluffy and moist muffin bursting with fresh blueberries."
   },
   {
     "name": "Grilled Cheese Sandwich",
-    "image": "imgs/grilled-cheese.jpg",
+    "image": "../imgs/grilled-cheese.jpg",
     "description": "Golden grilled bread with gooey melted cheddar inside."
   },
   {
     "name": "Mocha Frappe",
-    "image": "imgs/mocha-frappe.jpg",
+    "image": "../imgs/mocha-frappe.jpg",
     "description": "Chilled mocha blended with ice and topped with whipped cream."
   },
   {
     "name": "Almond Croissant",
-    "image": "imgs/almond-croissant.jpg",
+    "image": "../imgs/almond-croissant.jpg",
     "description": "Buttery, flaky croissant filled with sweet almond paste."
   },
   {
     "name": "Matcha Latte",
-    "image": "imgs/matcha-latte.jpg",
+    "image": "../imgs/matcha-latte.jpg",
     "description": "Earthy Japanese matcha blended with steamed milk for a calming boost."
   },
   {
     "name": "Pumpkin Spice Roll",
-    "image": "imgs/pumpkin-roll.jpg",
+    "image": "../imgs/pumpkin-roll.jpg",
     "description": "Spiced pumpkin cake rolled with sweet cream cheese filling."
   },
   {
     "name": "Iced Hibiscus Tea",
-    "image": "imgs/hibiscus-tea.jpg",
+    "image": "../imgs/hibiscus-tea.jpg",
     "description": "Floral and fruity herbal tea served over ice — refreshing and caffeine-free."
   }
 ]

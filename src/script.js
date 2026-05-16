@@ -1,4 +1,3 @@
-// Load Dish of the Day
 fetch('dishes.json')
   .then(response => response.json())
   .then(dishes => {
@@ -8,7 +7,6 @@ fetch('dishes.json')
     document.getElementById('dish-description').textContent = dish.description;
   });
 
-// Testimonials Slider
 const testimonials = [
   "\"Best coffee in town — and the coziest vibe!\" - Sarah",
   "\"Dream Café feels like home. Try the croissants!\" - Mike",
