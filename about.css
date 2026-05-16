@@ -1,0 +1,129 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    height: 80px;
+    width: 100%;
+    box-sizing: border-box;
+    border-bottom: 1px solid rgba(173, 134, 98, 0.3);
+}
+
+.logo {
+    font-size: 1.5rem;
+    color: rgb(173, 134, 98);
+    font-weight: 900;
+    text-decoration: none;
+    font-family:  serif;
+    cursor: pointer;
+}
+
+.nav {
+    display: flex;
+    gap: 30px;
+}
+
+.headBtn {
+    color: rgb(173, 134, 98);
+    text-decoration: none;
+    font-family: serif;
+    font-size: 1rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+body {
+  font-family: 'Georgia', serif;
+  background-color: #fefaf6;
+  color: #3e2e1c;
+  text-align: center;
+}
+
+.about-container {
+  max-width: 1000px;
+  margin: 60px auto;
+  padding: 40px 20px;
+}
+
+.about-container h1 {
+  font-size: 2.5rem;
+  color: #b5651d;
+  margin-bottom: 20px;
+}
+
+.intro {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  max-width: 750px;
+  margin: 0 auto 50px auto;
+  color: #5a4531;
+  font-style: italic;
+  text-align: center;
+}
+
+.mission h2 {
+  font-size: 2rem;
+  margin: 60px 0 20px;
+  color: #8e4a1f;
+}
+
+.mission-items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+
+.mission-item {
+  background-color: #fff7f1;
+  border-radius: 10px;
+  padding: 20px;
+  max-width: 280px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.mission-item h3 {
+  color: #b5651d;
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+.mission-item p {
+  font-size: 0.95rem;
+  color: #4c3a2a;
+  line-height: 1.6;
+}
+
+.back-home {
+  margin-top: 50px;
+}
+
+.back-home a {
+  text-decoration: none;
+  color: #b5651d;
+  font-weight: bold;
+  font-size: 1.1rem;
+  transition: color 0.3s;
+}
+
+.back-home a:hover {
+  color: #945117;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    padding: 40px 20px;
+    margin-top: 100px;
+    border-top: 1px solid rgba(173, 134, 98, 0.3);
+}

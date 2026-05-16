@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Menu | Dream Café</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+    <div class="header">
+        <a href="index.html" class="logo">Dream Café</a>
+        <nav class="nav">
+            <a href="menu.html" class="headBtn">Menu</a>
+            <a href="testimonial.html" class="headBtn">Testimonials</a>
+            <a href="contact.html" class="headBtn">Contact</a>
+            <a href="about.html" class="headBtn">About</a>
+        </nav>
+    </div>
+
+    <div class="menu-container">
+        <section id="chefs-picks">
+            <h2>Chef’s Picks</h2>
+            <div class="picks-grid" id="picks-grid"></div>
+        </section>
+
+        <section id="full-menu">
+            <h2>Our Menu</h2>
+
+            <div class="menu-category">
+                <h3>Coffee</h3>
+                <div class="carousel-wrapper">
+                    <button type="button" class="prev">&#8249;</button>
+                    <div class="carousel-track-wrapper">
+                        <div class="carousel-track" id="coffee-carousel"></div>
+                    </div>
+                    <button type="button" class="next">&#8250;</button>
+                </div>
+            </div>
+
+            <div class="menu-category">
+                <h3>Bakery</h3>
+                <div class="carousel-wrapper">
+                    <button type="button"  class="prev">&#8249;</button>
+                    <div class="carousel-track-wrapper">
+                        <div class="carousel-track" id="bakery-carousel"></div>
+                    </div>
+                    <button type="button"  class="next">&#8250;</button>
+                </div>
+            </div>
+        </section>
+    </div>
+
+
+    <div class="footer">
+        <p class="copyright">Copyrights © | All rights Reserved</p>
+    </div>
+
+    <script src="menu.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Caramel Latte",
+    "category": "Coffee",
+    "price": "$4.50",
+    "description": "Rich espresso with caramel syrup and steamed milk.",
+    "image": "imgs/caramel-latte.jpg",
+    "highlight": false
+  },
+  {
+    "name": "Espresso Shot",
+    "category": "Coffee",
+    "price": "$3.00",
+    "description": "Straight, bold, and intense.",
+    "image": "imgs/espresso.jpg",
+    "highlight": false
+  },
+  {
+    "name": "Chocolate Croissant",
+    "category": "Bakery",
+    "price": "$3.20",
+    "description": "Flaky croissant filled with gooey chocolate.",
+    "image": "imgs/choco-croissant.jpg",
+    "highlight": true
+  },
+  {
+    "name": "Blueberry Muffin",
+    "category": "Bakery",
+    "price": "$2.80",
+    "description": "Soft muffin bursting with blueberries.",
+    "image": "imgs/blueberry-muffin.jpg",
+    "highlight": false
+  },
+  {
+    "name": "Matcha Latte",
+    "category": "Coffee",
+    "price": "$4.70",
+    "description": "Creamy steamed milk blended with vibrant matcha green tea.",
+    "image": "imgs/matcha-latte.jpg",
+    "highlight": false
+  },
+  {
+    "name": "Cappuccino",
+    "category": "Coffee",
+    "price": "$4.00",
+    "description": "A perfect balance of espresso, steamed milk, and foam.",
+    "image": "imgs/cappuccino.jpg",
+    "highlight": false
+  },
+  {
+    "name": "Avocado Toast",
+    "category": "Breakfast",
+    "price": "$5.50",
+    "description": "Toasted sourdough topped with smashed avocado and chili flakes.",
+    "image": "imgs/avocado-toast.jpg",
+    "highlight": false
+  },
+  {
+    "name": "Iced Americano",
+    "category": "Coffee",
+    "price": "$3.80",
+    "description": "Espresso poured over chilled water and ice.",
+    "image": "imgs/iced-americano.jpg",
+    "highlight": false
+  },
+  {
+    "name": "Almond Croissant",
+    "category": "Bakery",
+    "price": "$3.50",
+    "description": "Layered pastry filled with almond cream and topped with flakes.",
+    "image": "imgs/almond-croissant.jpg",
+    "highlight": false
+  },
+  {
+    "name": "Mocha",
+    "category": "Coffee",
+    "price": "$4.60",
+    "description": "Espresso, chocolate, and steamed milk topped with whipped cream.",
+    "image": "imgs/mocha.jpg",
+    "highlight": false
+  },
+  {
+    "name": "Egg & Cheese Sandwich",
+    "category": "Breakfast",
+    "price": "$4.20",
+    "description": "Fluffy eggs and cheddar on a toasted English muffin.",
+    "image": "imgs/egg-sandwich.jpg",
+    "highlight": false
+  },
+  {
+    "name": "Strawberry Danish",
+    "category": "Bakery",
+    "price": "$3.00",
+    "description": "Golden pastry filled with strawberries and cream cheese.",
+    "image": "imgs/strawberry-danish.jpg",
+    "highlight": false
+  },
+  {
+    "name": "Hot Chocolate",
+    "category": "Coffee",
+    "price": "$3.90",
+    "description": "Creamy and rich with melted chocolate and steamed milk.",
+    "image": "imgs/hot-chocolate.jpg",
+    "highlight": false
+  },
+  {
+    "name": "Pumpkin Spice Latte",
+    "category": "Coffee",
+    "price": "$4.80",
+    "description": "Espresso with pumpkin, spices, and steamed milk. A fall favorite.",
+    "image": "imgs/pumpkin-spice.jpg",
+    "highlight": true
+  },
+  {
+    "name": "Greek Yogurt Parfait",
+    "category": "Breakfast",
+    "price": "$3.70",
+    "description": "Layers of Greek yogurt, granola, and honeyed berries.",
+    "image": "imgs/parfait.jpg",
+    "highlight": false
+  },
+  {
+    "name": "Cinnamon Roll",
+    "category": "Bakery",
+    "price": "$3.30",
+    "description": "Warm, sticky bun swirled with cinnamon and icing.",
+    "image": "imgs/cinnamon-roll.jpg",
+    "highlight": true
+  },
+  {
+    "name": "Chai Latte",
+    "category": "Coffee",
+    "price": "$4.40",
+    "description": "Spiced tea concentrate mixed with steamed milk.",
+    "image": "imgs/chai-latte.jpg",
+    "highlight": false
+  },
+  {
+    "name": "Cold Brew",
+    "category": "Coffee",
+    "price": "$4.00",
+    "description": "Slow-steeped and super smooth — best served chilled.",
+    "image": "imgs/cold-brew.jpg",
+    "highlight": false
+  },
+  {
+    "name": "Lemon Poppy Seed Loaf",
+    "category": "Bakery",
+    "price": "$3.10",
+    "description": "Soft loaf bursting with lemon zest and crunchy poppy seeds.",
+    "image": "imgs/lemon-loaf.jpg",
+    "highlight": false
+  },
+  {
+    "name": "Iced Hibiscus Tea",
+    "category": "Refreshers",
+    "price": "$3.60",
+    "description": "Bright, floral herbal tea with a tart finish.",
+    "image": "imgs/hibiscus-tea.jpg",
+    "highlight": false
+  }
+]
